@@ -16,7 +16,7 @@
 
 How to setup it up:
 
-*On Ubuntu:*
+...*On Ubuntu:*
 
 ```bash
 sudo apt-get install quickly quickly-ubuntu-template
@@ -25,6 +25,7 @@ sudo pip install sqlite3
 ```
 
 *Then:*
+
 
 1. Create a folder called **sms-quickly** and put the **root content in it**.
 2. Open the terminal and cd into the **sms-quickly**
