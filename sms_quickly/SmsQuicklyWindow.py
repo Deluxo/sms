@@ -15,7 +15,6 @@ from sms_quickly_lib import Window
 from sms_quickly.AboutSmsQuicklyDialog import AboutSmsQuicklyDialog
 from sms_quickly.PreferencesSmsQuicklyDialog import PreferencesSmsQuicklyDialog
 
-import telnetlib
 import os 
 import sqlite3
 import commands
