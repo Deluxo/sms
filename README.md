@@ -6,7 +6,7 @@ This application let's a user to write sms messages on a desktop and send it via
 
 ###How does it do?
 
-It uses a ssh connection to enter commands promt. Then it sends commands like *service call isms ...* to send sms. It also retrieves the sqlite database of inbox messages and displays it in a list. Messages that are too long for a window, can be viewed by selecting an item list and waiting for a popup to show message's full content. 
+It uses a ssh connection to enter phone's command promt. Then it sends commands like *service call isms ...* to send sms. It also retrieves the sqlite database of inbox messages and displays it in a list. Messages that are too long for a window, can be viewed by selecting an item list and waiting for a popup to show message's full content. 
 
 ![Alt text](1.png?raw=true "ScreenShot")
 
