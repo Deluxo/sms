@@ -1,4 +1,4 @@
-#SMS - a minimalistic sms messaging client on *Linux*
+#SMS - a minimalistic sms client on *Linux*
 
 ###What it does
 
