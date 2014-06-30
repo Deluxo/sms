@@ -14,10 +14,7 @@
 - Accessable commands: ssh, scp
 - Python 2.7, python packages: sqlite3, commands, time, subprocess
 
-How to setup it up:
-
-
-*On Ubuntu:*
+How to setup it up *on Ubuntu:*
 
 ```bash
 sudo apt-get install quickly quickly-ubuntu-template
@@ -32,4 +29,4 @@ sudo pip install sqlite3
 2. Open the terminal and cd into the **sms-quickly**
 3. run: *quickly run* - and it should run the application
 4. To design the app, in the root folder run: *quickly design*.
-5. The core code can be found in sms-quickly/SmsQuicklyWindow.py
+5. The core code can be found in sms_quickly/SmsQuicklyWindow.py
