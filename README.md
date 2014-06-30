@@ -32,7 +32,10 @@ sudo pip install sqlite3
 *Then:*
 
 1. Create a folder called **sms-quickly** and put the **root content in it**.
-2. Open the terminal and cd into the **sms-quickly**
+2. In it, create a folder databases where two files will be placed:
+  1. contacts2.db - copy it from your phone dir: /data/data/com.android.providers.contacts/databases/contacts2.db
+  2. mmssms.db - it should be pulled from your phone automatically, though the dir is: /data/data/com.android.providers.telephony/databases/mmssms.db
+3. Open the terminal and cd into the **sms-quickly**
 3. run: *quickly run* - and it should run the application
 4. To design the app, in the root folder run: *quickly design*.
 5. The core code can be found in sms_quickly/SmsQuicklyWindow.py
