@@ -16,7 +16,8 @@
 
 How to setup it up:
 
-...*On Ubuntu:*
+
+*On Ubuntu:*
 
 ```bash
 sudo apt-get install quickly quickly-ubuntu-template
